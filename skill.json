@@ -1,0 +1,13 @@
+{
+  "name": "genpark-hybrid-logical-clock-hlc-causality-skill",
+  "version": "1.0.0",
+  "description": "Hybrid Logical Clock (HLC) distributed causality coordinator maintaining monotonicity and bounded physical drift across unsynchronized network nodes.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "hybrid-logical-clock",
+    "hlc",
+    "distributed-systems",
+    "causality-tracking"
+  ]
+}
